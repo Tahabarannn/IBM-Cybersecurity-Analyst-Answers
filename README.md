@@ -2,7 +2,7 @@
 
 <br>
 
-![cert](IBM Cybersecurity Analyst.pdf)
+![cert](IBM Cybersecurity Analyst-1.png)
 
 
 * Feel free to contribute!
